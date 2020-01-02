@@ -14,6 +14,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class BattleShip {
     @Id
     String id;
-    String name;
+   String name;
     String gun;
 }
